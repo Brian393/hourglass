@@ -42,9 +42,10 @@ export default class MapView extends Mark {
         'a',
         {
           ...node.attrs,
+          class: "map-link", 
           rel: 'noopener noreferrer nofollow',
           target: '_self',
-          style: 'text-decoration:none; color: #aa8000;',
+          style: 'text-decoration:none'
         },
         0,
       ],

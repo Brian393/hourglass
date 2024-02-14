@@ -7,6 +7,13 @@ import VueI18n from './i18n';
 Vue.use(Vuetify);
 
 const vuetify = new Vuetify({
+  theme: {
+    themes: {
+      light: {
+        anchor: '#aa8000', // defaults to 'primary', overrided to another color
+      },
+    },
+  },
   icons: {
     iconfont: 'md', // default - only for display purposes
   },
