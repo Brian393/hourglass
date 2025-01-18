@@ -46,30 +46,10 @@
     "zoom": 1,
     "geoserverWorkspace": "workspace1",
     "resolutions": [
-      156543.03,
-      78271.52,
-      39135.76,
-      19567.88,
-      9783.94,
-      4891.97,
-      2445.98,
-      1222.99,
-      611.5,
-      305.75,
-      152.87,
-      76.437,
-      38.219,
-      19.109,
-      9.5546,
-      4.7773,
-      2.3887,
-      1.1943,
-      0.5972
+      156543.03, 78271.52, 39135.76, 19567.88, 9783.94, 4891.97, 2445.98, 1222.99, 611.5, 305.75, 152.87, 76.437,
+      38.219, 19.109, 9.5546, 4.7773, 2.3887, 1.1943, 0.5972
     ],
-    "center": [
-      0,
-      0
-    ],
+    "center": [0, 0],
     "minResolution": 0.25,
     "maxResolution": 64000,
     "layers": [
@@ -1038,15 +1018,9 @@
             "labels2",
             "hourglass_locations"
           ],
-          "center": [
-            -91.35,
-            30.486
-          ],
+          "center": [-91.35, 30.486],
           "resolution": 440,
-          "mobileCenter": [
-            -91.57,
-            30.5
-          ],
+          "mobileCenter": [-91.57, 30.5],
           "mobileResolution": 1900,
           "minResolution": 0.25,
           "maxResolution": 32000,
@@ -1054,10 +1028,7 @@
         },
         "local": {
           "layers": [],
-          "center": [
-            -88.179,
-            41.837
-          ],
+          "center": [-88.179, 41.837],
           "resolution": 2000,
           "mobileResolution": 16000,
           "minResolution": 0,
@@ -1066,10 +1037,7 @@
         },
         "global": {
           "layers": [],
-          "center": [
-            -12.42,
-            29.84
-          ],
+          "center": [-12.42, 29.84],
           "resolution": 68000,
           "mobileResolution": 80000,
           "minResolution": 0,
@@ -1089,15 +1057,9 @@
             "photos",
             "circles"
           ],
-          "center": [
-            -91.666,
-            31.027
-          ],
+          "center": [-91.666, 31.027],
           "resolution": 33,
-          "mobileCenter": [
-            -91.658,
-            31.025
-          ],
+          "mobileCenter": [-91.658, 31.025],
           "mobileResolution": 80,
           "minResolution": 0.25,
           "maxResolution": 32000,
@@ -1105,10 +1067,7 @@
         },
         "local": {
           "layers": [],
-          "center": [
-            -88.179,
-            41.837
-          ],
+          "center": [-88.179, 41.837],
           "resolution": 2000,
           "mobileResolution": 16000,
           "minResolution": 0,
@@ -1116,10 +1075,7 @@
         },
         "global": {
           "layers": [],
-          "center": [
-            -12.42,
-            29.84
-          ],
+          "center": [-12.42, 29.84],
           "resolution": 68000,
           "mobileResolution": 80000,
           "minResolution": 0,
@@ -1140,15 +1096,9 @@
             "polygons",
             "photos"
           ],
-          "center": [
-            -90.889,
-            30.136
-          ],
+          "center": [-90.889, 30.136],
           "resolution": 160,
-          "mobileCenter": [
-            -90.831,
-            30.101
-          ],
+          "mobileCenter": [-90.831, 30.101],
           "mobileResolution": 100,
           "minResolution": 0.25,
           "maxResolution": 32000,
@@ -1156,10 +1106,7 @@
         },
         "local": {
           "layers": [],
-          "center": [
-            -88.179,
-            41.837
-          ],
+          "center": [-88.179, 41.837],
           "resolution": 2000,
           "mobileResolution": 16000,
           "minResolution": 0,
@@ -1167,10 +1114,7 @@
         },
         "global": {
           "layers": [],
-          "center": [
-            -12.42,
-            29.84
-          ],
+          "center": [-12.42, 29.84],
           "resolution": 68000,
           "mobileResolution": 80000,
           "minResolution": 0,
@@ -1193,15 +1137,9 @@
             "photos",
             "locations2"
           ],
-          "center": [
-            -91.195,
-            29.704
-          ],
+          "center": [-91.195, 29.704],
           "resolution": 20,
-          "mobileCenter": [
-            -91.191,
-            29.704
-          ],
+          "mobileCenter": [-91.191, 29.704],
           "mobileResolution": 40,
           "minResolution": 0.25,
           "maxResolution": 32000,
@@ -1209,10 +1147,7 @@
         },
         "local": {
           "layers": [],
-          "center": [
-            -88.179,
-            41.837
-          ],
+          "center": [-88.179, 41.837],
           "resolution": 2000,
           "mobileResolution": 16000,
           "minResolution": 0,
@@ -1220,10 +1155,7 @@
         },
         "global": {
           "layers": [],
-          "center": [
-            -12.42,
-            29.84
-          ],
+          "center": [-12.42, 29.84],
           "resolution": 68000,
           "mobileResolution": 80000,
           "minResolution": 0,
@@ -1244,15 +1176,9 @@
             "cmp2017_diversions",
             "locations2"
           ],
-          "center": [
-            -90.098,
-            29.929
-          ],
+          "center": [-90.098, 29.929],
           "resolution": 80,
-          "mobileCenter": [
-            -90.158,
-            29.946
-          ],
+          "mobileCenter": [-90.158, 29.946],
           "mobileResolution": 320,
           "minResolution": 0.25,
           "maxResolution": 32000,
@@ -1260,10 +1186,7 @@
         },
         "local": {
           "layers": [],
-          "center": [
-            -88.179,
-            41.837
-          ],
+          "center": [-88.179, 41.837],
           "resolution": 2000,
           "mobileResolution": 16000,
           "minResolution": 0,
@@ -1271,10 +1194,7 @@
         },
         "global": {
           "layers": [],
-          "center": [
-            -12.42,
-            29.84
-          ],
+          "center": [-12.42, 29.84],
           "resolution": 68000,
           "mobileResolution": 80000,
           "minResolution": 0,
@@ -1291,15 +1211,9 @@
             "delta_complexes",
             "labels2"
           ],
-          "center": [
-            -90.799,
-            29.768
-          ],
+          "center": [-90.799, 29.768],
           "resolution": 400,
-          "mobileCenter": [
-            -90.755,
-            29.85
-          ],
+          "mobileCenter": [-90.755, 29.85],
           "mobileResolution": 800,
           "minResolution": 0.25,
           "maxResolution": 32000,
@@ -1307,10 +1221,7 @@
         },
         "local": {
           "layers": [],
-          "center": [
-            -88.179,
-            41.837
-          ],
+          "center": [-88.179, 41.837],
           "resolution": 2000,
           "mobileResolution": 16000,
           "minResolution": 0,
@@ -1318,10 +1229,7 @@
         },
         "global": {
           "layers": [],
-          "center": [
-            -12.42,
-            29.84
-          ],
+          "center": [-12.42, 29.84],
           "resolution": 68000,
           "mobileResolution": 80000,
           "minResolution": 0,
