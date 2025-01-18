@@ -89,7 +89,7 @@
             </v-list-item>
           </v-list>
         </v-menu>
-
+        <v-spacer></v-spacer>
         <template
           v-if="($appConfig.app.navbar && $appConfig.app.navbar.dropdownMenu !== true) || !$appConfig.app.navbar"
         >
