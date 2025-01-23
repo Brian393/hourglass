@@ -1240,7 +1240,7 @@
     "flyToSlideshow": {
       "delayInSecondsForInitialStart": 120,
       "delayInSecondsBetweenFrames": 20,
-      "maplinks": [ ]
+      "maplinks": []
     },
     "defaultActiveGroup": "locations",
     "groupTitles": {
