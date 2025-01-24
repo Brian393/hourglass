@@ -10,9 +10,9 @@
     "defaultLanguage": "en",
     "color": {
       "primary": "#00000e",
-      "secondary": "#00000e",
-      "link": "#ff0000",
-      "mapLink": "#7C2CA3"
+      "secondary": "green",
+      "link": "green",
+      "mapLink": "#c89f28"
     },
     "font": {
       "url": "https://fonts.googleapis.com/css2?family=Merriweather&display=swap",
