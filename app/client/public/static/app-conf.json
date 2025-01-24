@@ -1238,9 +1238,9 @@
       }
     },
     "flyToSlideshow": {
-      "delayInSecondsForInitialStart": 120,
-      "delayInSecondsBetweenFrames": 20,
-      "maplinks": []
+      "delayInSecondsForInitialStart": 600000,
+      "delayInSecondsBetweenFrames": 2000000,
+      "maplinks": [""]
     },
     "defaultActiveGroup": "locations",
     "groupTitles": {
